@@ -1,4 +1,5 @@
 # SEO-tool
+
 An SEO tool for Beginners using xlsxwriter
 
 Created by : Rohini Koli  
